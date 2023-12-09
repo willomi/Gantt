@@ -1,0 +1,6 @@
+git remote add origin https://github.com/willomi/r-shinylive-demo
+git push -u origin master
+
+
+shinylive::writeShinyliveApp("C:/Users/micha/_Work/Software/R/Shiny/Gantt2/app.R", ""C:/Users/micha/_Work/Software/R/Shiny/Gantt2live")
+
